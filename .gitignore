@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User task storage (contains personal study tasks)
+tasks.csv
+
+# Streamlit run cache & secrets
+.streamlit/secrets.toml
